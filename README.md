@@ -18,6 +18,7 @@ A Python automation tool to simplify local PrestaShop instance configuration for
 ### Python Dependencies
 ```bash
 pip install mysql-connector-python
+```
 
 ## Quick Start
 1. Clone repository:
