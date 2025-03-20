@@ -89,13 +89,13 @@ SQL dump path (e.g., C:/backup.sql):
    - Ensure `local_domain` matches your server configuration
    - Verify virtual host settings if using Apache/NGINX
 
-## Customization
+## 🔄Customization
 Modify these script sections for advanced use:
 - **Regex Patterns**: Adjust in `configure_htaccess()` and `configure_parameters_php()`
 - **Cache Directories**: Edit `cache_dirs` list in `clear_cache()`
 - **Database Queries**: Customize SQL in `update_database_tables()`
 
-## Contributing
+## 🤝Contributing
 1. Fork the repository
 2. Create feature branch:
    ```bash
